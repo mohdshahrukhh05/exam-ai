@@ -1,0 +1,7 @@
+{
+  "name": "ExamAI - Smart Model Paper Solver",
+  "description": "Upload exam papers (PDF/Images) to automatically generate interactive MCQ quizzes and subjective voice-response practice sessions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
